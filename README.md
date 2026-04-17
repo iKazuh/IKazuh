@@ -1,5 +1,7 @@
 Olá! Eu sou Victor Kazu 👋
+
 Sobre Mim
+
 Atualmente, sou estudante de Ciência da Computação e estou em busca de conhecimento para ingressar no mercado de tecnologia. Meu objetivo é transformar curiosidade em soluções reais, aprendendo diariamente como a lógica e o código podem resolver problemas do cotidiano.
 
 🚀 O que estou aprendendo agora:
