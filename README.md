@@ -1,19 +1,15 @@
-# Olá! Eu sou Victor Kazu 👋
-## Sobre Mim
-Atualmente sou estudante de Ciencias da Computação e estou em buscando conhecimento para ingressar na área. Meu objetivo é transformar a curiosidade em soluções reais, aprendendo a cada dia como a lógica e o código podem resolver problemas do cotidiano.
-***
-## 🚀 O que estou aprendendo agora:
+Olá! Eu sou Victor Kazu 👋
+Sobre Mim
+Atualmente, sou estudante de Ciência da Computação e estou em busca de conhecimento para ingressar no mercado de tecnologia. Meu objetivo é transformar curiosidade em soluções reais, aprendendo diariamente como a lógica e o código podem resolver problemas do cotidiano.
 
-Linguagens e Ferramentas: Iniciando meus estudos em [TECNOLOGIA 1] e [TECNOLOGIA 2].
+🚀 O que estou aprendendo agora:
+Linguagens e Ferramentas: Iniciando meus estudos em Python.
 
-Foco Técnico: No momento, estou focado em dominar a base de [ÁREA DE INTERESSE, EX: LÓGICA OU FRONT-END].
+Foco Técnico: No momento, estou focado em dominar a base de Lógica de Programação e Estruturas de Dados.
 
-Metas de Curto Prazo: Construir meus primeiros projetos autorais e contribuir com a comunidade.
+Metas de Curto Prazo: Construir meus primeiros projetos autorais e contribuir com a comunidade técnica.
 
-***
-## 🕹️ Além das linhas de código:
+🕹️ Além das linhas de código:
+Interesses: Sou entusiasta de Games (Nintendo Switch 2). Acredito que a criatividade desses hobbies e a busca por soluções em jogos ajudam muito na hora de programar.
 
-Interesses: Sou entusiasta de [RPG / Games / História da Tecnologia] e acredito que a criatividade desses hobbies ajuda muito na hora de programar.
-
-Mindset: Vejo a tecnologia não apenas como trabalho, mas como uma forma de aprendizado contínuo e colaboração.
-***
+Mindset: Vejo a tecnologia não apenas como carreira, mas como um ecossistema de aprendizado contínuo e colaboração.
